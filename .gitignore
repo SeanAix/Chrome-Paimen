@@ -1,0 +1,12 @@
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+MaxScore.txt
+.vs/
+Debug/
+Release/
+x64/
+x86/
